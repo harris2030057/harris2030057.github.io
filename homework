@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Harris"s WebPage</title>
+	<style style="text/css">
+	a{text-decoration:none;}
+	a:hover{text-decoration:underline;}
+	</style>
+</head>
+<body background="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTQjPalFIxGFcKtcFJ9sJPVfV8pbnxJf6mwMlNYDpjt4ySFuTjj" >
+<style type="text/css">
+       color: red;
+  }
+  .thick-white-border {
+   border-color: white;
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 50%;
+  }
+
+  h2 {
+    font-family: Lobster, Monospace;
+  }
+
+  p {
+    font-size: 32px;
+    font-family: Monospace;
+  }
+    1 {
+    font-size: 20px;
+    font-family: Monospace;
+  }
+
+  .smaller-image {
+    width: 500px;
+  }
+	
+</style>	
+<h2>"Harris"s WebPage"</h2>
+<img class="smaller-image thick-white-border-border" src="https://scontent-tpe1-1.xx.fbcdn.net/v/t1.0-9/16649112_1419841884701436_7871591653940557122_n.jpg?oh=168bd3a7f1a3be158a7ac02ec059d713&oe=595C1FBC">
+<p>Education::</p>
+<ul>
+  <li>YiXian elementray school</li>
+  <li>DanFeng junior high school</li>
+  <li>BanQiao senior high school</li>
+  <li> FuJen university MIIA</li>
+ 
+</ul>
+<p>Interests:</p>
+ <ol>
+  <li>Watching movies</li>
+  <li>Play basketball</li>
+   <li>Reading novels</li>
+</ol>
+	
+</body>
+</html>
