@@ -23,36 +23,50 @@
     font-family: Lobster, Monospace;
   }
 
-  p {
+   h3{
     font-size: 32px;
     font-family: Monospace;
+   
   }
-    1 {
+    li{
     font-size: 20px;
     font-family: Monospace;
+    
   }
-
+  .a{ color: blue;}
+.b{ color: gray;}
   .smaller-image {
     width: 500px;
   }
 	
 </style>	
-<h2>"Harris"s WebPage"</h2>
+<h2 class="a">"Harris"s WebPage"</h2>
 <img class="smaller-image thick-white-border-border" src="https://scontent-tpe1-1.xx.fbcdn.net/v/t1.0-9/16649112_1419841884701436_7871591653940557122_n.jpg?oh=168bd3a7f1a3be158a7ac02ec059d713&oe=595C1FBC">
-<p>Education::</p>
-<ul>
-  <li>YiXian elementray school</li>
-  <li>DanFeng junior high school</li>
-  <li>BanQiao senior high school</li>
-  <li> FuJen university MIIA</li>
+<h3>My name:</h3><li>Wei Zhong Shih</li>
+<h3>My student number:</h3><li>405570109</li>
+<h3> Education:</h3>
+
+  <li class="b">YiXian elementray school</li>
+   <li class="b">DanFeng junior high school</li>
+   <li class="b">BanQiao senior high school</li>
+   <li class="b"> FuJen university MIIA</li>
  
-</ul>
-<p>Interests:</p>
- <ol>
-  <li>Watching movies</li>
-  <li>Play basketball</li>
-   <li>Reading novels</li>
-</ol>
+
+<h3 class="a">Interests:</h3>
+ 
+   <li class="b">Watching movies</li>
+   <li class="b">Play basketball</li>
+    <li class="b">Reading novels</li>
+
+
+<h3><a href="https://www.facebook.com/profile.php?id=100000269154357">My Facebook</a></h3>
+<h3><a href="https://www.instagram.com/weizhong0915/">My Instagram</a></h3>
+<h3><a href="https://github.com/harris2030057">My Github</a></h3>
+
+
+
+
+
 	
 </body>
 </html>
